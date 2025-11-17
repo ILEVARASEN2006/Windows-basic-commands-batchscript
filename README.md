@@ -26,51 +26,66 @@ Create a directory named "my-folder"
 
 ## COMMAND AND OUTPUT
 
+![alt text](img/img1.jpg)
+
 Remove the directory "my-folder"
 
 ## COMMAND AND OUTPUT
 
+![alt text](img/img2.jpg)
 
 Create the file Rose.txt
 
 ## COMMAND AND OUTPUT
 
+![alt text](img/img3.jpg)
+
+![alt text](img/img4.jpg)
 
 Create the file hello.txt using echo and redirection
 
 ## COMMAND AND OUTPUT
 
+![alt text](img/img5.jpg)
+
 Copy the file hello.txt into the file hello1.txt
 
 ## COMMAND AND OUTPUT
+
+![alt text](img/img6.jpg)
 
 Remove the file hello1.txt
 
 ## COMMAND AND OUTPUT
 
+![alt text](img/img7.jpg)
+
 List out the file hello1.txt in the current directory
 
 ## COMMAND AND OUTPUT
+
+![alt text](img/img7.jpg)
 
 List out all the associated file extensions 
 
 ## COMMAND AND OUTPUT
 
+![alt text](img/img8.jpg)
 
 Compare the file hello.txt and rose.txt
 
 ## COMMAND AND OUTPUT
+
+![alt text](img/img9.jpg)
 
 ## Exercise 2: Advanced Batch Scripting
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
 
 
 
-
-
 ## OUTPUT
 
-
+![alt text](img/img10.jpg)
 
 Create a batch file  on the desktop that checks whether a user-input number is odd or not. The script should:
 Prompt the user to enter a number.
@@ -84,7 +99,7 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 ## OUTPUT
 
-
+![alt text](img/img11.jpg)
 
 
 Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1 to 5) and displays each number with the label Number:. The output should pause at the end.
@@ -94,8 +109,7 @@ Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1
 
 ## OUTPUT
 
-
-
+![alt text](img/img12.jpg)
 
 Write a batch script to check whether a file named sample.txt exists in the current directory. If the file exists, display the message sample.txt exists. Otherwise, display sample.txt does not exist. Pause the script at the end to view the result.
 
@@ -107,6 +121,7 @@ Expected Output (if the file exists):
 
 ## OUTPUT
 
+![alt text](img/img13.jpg)
 
 Write a batch script that displays a simple menu with three options:
 Say Hello – Displays the message Hello, World!
@@ -117,7 +132,7 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 ## OUTPUT
 
-
+![alt text](img/img14.jpg)
 
 # RESULT:
 The commands/batch files are executed successfully.
